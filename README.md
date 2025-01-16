@@ -11,10 +11,10 @@ Hi there! I'm **Guhan**, a Final Year Data Science and Analytics student at the 
 ## 🚀 **Projects**  
 
 Here are some of the key projects you'll find in my repositories:  
-- **[DSA4264-LTA-Geospatial](#):** Geospatial analysis project for the Land Transport Authority (LTA), focusing on optimizing transportation systems using spatial data.  
-- **[Stonkzfu](#):** A financial data analysis project designed to provide insights into market trends and investment strategies.  
-- **[LingoMate](#):** A personalized language learning application leveraging AI to enhance conversational fluency.  
-- **[CCC_Project](#):** An automation tool that streamlines the discharge process at vaccination centers, developed using Google Scripts.  
+- **[DSA4264-LTA-Geospatial](https://github.com/ajjajjajjajj/dsa4264-lta-geospatial):** Geospatial analysis project for the Land Transport Authority (LTA), focusing on optimizing transportation systems using spatial data.  
+- **[Stonkzfu](https://github.com/guhanavel/stonkzfu):** A financial data analysis project designed to provide insights into market trends and investment strategies.  
+- **[LingoMate](https://github.com/guhanavel/lingomate):** A personalized language learning application leveraging AI to enhance conversational fluency.  
+- **[CCC_Project](https://github.com/guhanavel/CCC_project):** An automation tool that streamlines the discharge process at vaccination centers, developed using Google Scripts.  
 
 ---
 
